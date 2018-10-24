@@ -1,6 +1,6 @@
 # Runtime Calculation of Sort Algorithms with C Programming Language
 
-The user enters the desired array size. The program generates random values between 10 < N < 1,000,000,000.
+The user enters the desired array size. The program generates random values between 10 and 1,000,000,000.
 
 The program sorts the same array with Merge, Bubble and Selection Sort.
 

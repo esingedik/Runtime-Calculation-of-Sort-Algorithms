@@ -4,6 +4,6 @@ The user enters the desired array size. The program generates random values betw
 
 The program sorts the same array with Merge, Bubble and Selection Sort.
 
-Each array is run more than 9 times with the same sort algorithm and the average run time is calculated.
+Each array is run more than 9 times with the same sort algorithm and the average runtime is calculated.
 
 You can compare the compare the performance of three different sort algorithms.
